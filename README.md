@@ -6,4 +6,4 @@ oleh Ricky Andriansyah
 Proyek ini adalah automation testing sederhana pada website MySkill dengan menggunakan Katalon Studio
 
 ## Tampilan Hasil Program
-![Tampilan Awal](images/images1.png)
+![Tampilan Awal](ResultMySkill.png)
