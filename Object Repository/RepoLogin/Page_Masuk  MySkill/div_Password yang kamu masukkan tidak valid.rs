@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password yang kamu masukkan tidak valid</name>
+   <tag></tag>
+   <elementGuidId>b187bb60-4e67-432a-8afc-55c4723294d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiAlert-message.mui-style-1dvysi1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div/form/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1189a6b2-f4df-4482-9b09-128a9d8858ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiAlert-message mui-style-1dvysi1</value>
+      <webElementGuid>3470bfb3-b742-4579-bc87-8ee7448a1412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password yang kamu masukkan tidak valid.</value>
+      <webElementGuid>bc1a2514-cc53-4972-bb8e-c0ca677093b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[@class=&quot;mui-style-v82cpl&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthSm mui-style-1m6pqln&quot;]/div[@class=&quot;mui-style-18yadix&quot;]/form[1]/div[@class=&quot;MuiStack-root mui-style-1orv6po&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-standardError MuiAlert-standard mui-style-xlsxqy&quot;]/div[@class=&quot;MuiAlert-message mui-style-1dvysi1&quot;]</value>
+      <webElementGuid>ad028de5-7365-4fbb-a61b-3c19abc7694b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/form/div/div/div[2]</value>
+      <webElementGuid>bb9bf613-f8c8-493c-ae2f-a643f41a935a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]</value>
+      <webElementGuid>10117703-5f40-4288-b76c-7f9cb592fe76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Password yang kamu masukkan tidak valid.' or . = 'Password yang kamu masukkan tidak valid.')]</value>
+      <webElementGuid>9a749e45-3247-40ef-bb31-fbc32e152f37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

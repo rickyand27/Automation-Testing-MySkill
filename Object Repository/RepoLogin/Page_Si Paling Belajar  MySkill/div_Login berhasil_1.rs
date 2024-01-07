@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login berhasil_1</name>
+   <tag></tag>
+   <elementGuidId>e883b05f-9419-4d2f-8763-009189f77f26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.SnackbarContent-root.SnackbarItem-contentRoot.SnackbarItem-variantSuccess.SnackbarItem-lessPadding.mui-style-hped4j</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>63ebd9e3-d148-4d93-b531-82123251e05d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SnackbarContent-root SnackbarItem-contentRoot SnackbarItem-variantSuccess SnackbarItem-lessPadding mui-style-hped4j</value>
+      <webElementGuid>84a4cec3-0b8b-48d4-b992-1a7c0029eb7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>notistack-snackbar</value>
+      <webElementGuid>fac720c6-4ed6-4f7b-8ec2-ce8b20de2ede</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>67bb8cb4-e5db-4c91-9878-3ecc2067f21a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login berhasil!</value>
+      <webElementGuid>9248cf64-a663-4abe-81e2-35c5b10af6c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;SnackbarContainer-top SnackbarContainer-right SnackbarContainer-root SnackbarContainer-rootDense mui-style-uwcd5u&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered mui-style-c4sutr&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical mui-style-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical mui-style-8atqhb&quot;]/div[@class=&quot;SnackbarItem-wrappedRoot mui-style-x65xj9&quot;]/div[@class=&quot;SnackbarContent-root SnackbarItem-contentRoot SnackbarItem-variantSuccess SnackbarItem-lessPadding mui-style-hped4j&quot;]</value>
+      <webElementGuid>3340ea06-83ae-4397-b7d1-791b1e68d15e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/div/div/div</value>
+      <webElementGuid>dfc3a072-f969-4b61-9221-a5a58c2b190d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+      <webElementGuid>e93b4752-cb58-48a0-971a-c467155eece4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Login berhasil!' or . = 'Login berhasil!')]</value>
+      <webElementGuid>df51bc85-d8c9-4901-94c3-2b3d98371fd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_N</name>
+   <tag></tag>
+   <elementGuidId>ea642788-2094-4865-86c6-031d0dfb8d98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiAvatar-root.MuiAvatar-circular.MuiAvatar-colorDefault.mui-style-1ffxi40</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/header/div/div/div[3]/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9556878e-e9ef-4f98-80b7-2cc8349e1104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault mui-style-1ffxi40</value>
+      <webElementGuid>dcfbe169-7bb4-4ced-8b03-778c073d4a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>N</value>
+      <webElementGuid>90a1176b-44ac-479f-91a2-4b74289c8f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiStack-root mui-style-o44is&quot;]/div[@class=&quot;MuiBox-root mui-style-1hvgntk&quot;]/div[@class=&quot;MuiBox-root mui-style-0&quot;]/div[1]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed mui-style-u5mgdq&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-regular mui-style-1156eqb&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg mui-style-1rnec2r&quot;]/div[@class=&quot;MuiBox-root mui-style-vxcmzt&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium mui-style-w5qhhs&quot;]/div[@class=&quot;MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault mui-style-1ffxi40&quot;]</value>
+      <webElementGuid>8a5a1409-bffc-400e-8696-76e54f279f4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/header/div/div/div[3]/button/div</value>
+      <webElementGuid>181e837b-4a9e-489d-841c-4395bfbd2b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>257b8639-ff3e-4ecb-9503-f801d498fb45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'N' or . = 'N')]</value>
+      <webElementGuid>758aa359-d829-4144-9f04-f44927d45b2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
